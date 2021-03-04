@@ -1,0 +1,9 @@
+﻿  main.cpp
+  maze.cpp
+C:\Users\thh\source\repos\MazeSovler\maze.cpp(2,25): warning C4838: 从“int”转换到“unsigned int”需要收缩转换
+C:\Users\thh\source\repos\MazeSovler\maze.cpp(3,31): warning C4838: 从“int”转换到“unsigned int”需要收缩转换
+C:\Users\thh\source\repos\MazeSovler\maze.cpp(57,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\thh\source\repos\MazeSovler\maze.cpp(165,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\thh\source\repos\MazeSovler\maze.cpp(165,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  MazeSovler.vcxproj -> C:\Users\thh\source\repos\MazeSovler\x64\Debug\MazeSovler.exe

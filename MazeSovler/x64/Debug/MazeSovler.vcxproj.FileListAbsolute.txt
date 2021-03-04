@@ -1,0 +1,2 @@
+C:\Users\thh\source\repos\MazeSovler\x64\Debug\MazeSovler.exe
+C:\Users\thh\source\repos\MazeSovler\x64\Debug\MazeSovler.pdb
